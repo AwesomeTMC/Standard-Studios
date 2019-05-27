@@ -22,11 +22,11 @@
 
 /* Add a color to the active/current link */
 .topnav a.active {
-  background-color: #4CAF50;
+  background-color: #FF0000;
   color: white;
 }
 body { 
   margin:0;
   background-color: red; /* For browsers that do not support gradients */
-  background-image: linear-gradient(red, yellow); /* Standard syntax (must be last) */
+  background-image: linear-gradient(red, orange); /* Standard syntax (must be last) */
 }
