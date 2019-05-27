@@ -25,4 +25,8 @@
   background-color: #4CAF50;
   color: white;
 }
-body { margin:0; }
+body { 
+  margin:0;
+  background-color: red; /* For browsers that do not support gradients */
+  background-image: linear-gradient(red, yellow); /* Standard syntax (must be last) */
+}
