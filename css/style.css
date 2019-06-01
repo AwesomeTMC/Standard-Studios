@@ -56,6 +56,7 @@ main {
 main span {
 	background-color: #494949;
 	padding:20px;
+	color: white;
 }
 footer {
 	height: 50px;
