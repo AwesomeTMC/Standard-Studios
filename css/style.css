@@ -54,7 +54,8 @@ main {
 	position: fixed;
 }
 main span {
-	background-color: #494949; 
+	background-color: #494949;
+	padding:5px;
 }
 footer {
 	height: 50px;
