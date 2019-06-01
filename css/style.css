@@ -50,6 +50,8 @@ main {
 	align-items: center;
 	justify-content: center;
 	box-sizing: border-box;
+	display: flex;
+	position: fixed;
 }
 footer {
 	height: 50px;
