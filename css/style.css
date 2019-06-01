@@ -53,6 +53,9 @@ main {
 	display: flex;
 	position: fixed;
 }
+main span {
+	background-color: #494949; 
+}
 footer {
 	height: 50px;
 	background-color: #494949;
