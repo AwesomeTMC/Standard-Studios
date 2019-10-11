@@ -35,7 +35,7 @@ nav.menu {
 	background-color: #494949;
 	position: absolute;
 	right: -300px;
-	transition: .5s all;
+	transition: .3s all;
 }
 nav.menu > a {
     display: block;
@@ -45,7 +45,7 @@ nav.menu > a {
     text-transform: uppercase;
 }
 main {
-	width: 100%;
+	width: 150%;
 	padding: 30px;
 	align-items: center;
 	justify-content: center;
